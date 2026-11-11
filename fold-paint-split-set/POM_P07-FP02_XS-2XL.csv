@@ -1,0 +1,24 @@
+Code,Point of measure,How to measure,Tol ±,Grade,Step XL→2XL,XS,S,M,L,XL,2XL,XS (in),S (in),M (in),L (in),XL (in),2XL (in)
+W,"1/2 waist, relaxed","Top edge of the waistband, closed (hook + bar and inside button done up), laid flat, edge to edge",1.0,2.0,3.0,48.0,50.0,52.0,54.0,56.0,59.0,18.9,19.69,20.47,21.26,22.05,23.23
+WBH,"Waistband height, finished","Top edge to the waistband seam, at CF and CB",0.2,0.0,0.0,4.5,4.5,4.5,4.5,4.5,4.5,1.77,1.77,1.77,1.77,1.77,1.77
+HP,1/2 hip,"Laid flat, pleats closed, side to side 20 cm below the top of the waistband (+0.5 cm per size)",1.5,2.0,2.5,58.5,60.5,62.5,64.5,66.5,69.0,23.03,23.82,24.61,25.39,26.18,27.17
+TH,1/2 thigh,"One leg laid flat, 2.5 cm below the crotch point, perpendicular to the crease, fold to fold",1.0,1.2,1.5,37.6,38.8,40.0,41.2,42.4,43.9,14.8,15.28,15.75,16.22,16.69,17.28
+KN,1/2 knee,"One leg laid flat, 33 cm below the crotch point measured along the inseam, fold to fold",1.0,0.8,1.0,35.4,36.2,37.0,37.8,38.6,39.6,13.94,14.25,14.57,14.88,15.2,15.59
+LO,1/2 leg opening,"One leg laid flat, straight across the hem edge",1.0,0.6,0.8,33.8,34.4,35.0,35.6,36.2,37.0,13.31,13.54,13.78,14.02,14.25,14.57
+LOC,"Hem circumference (leg opening, full)","One leg, all the way round the hem edge (= 2 × LO)",1.5,1.2,1.6,67.6,68.8,70.0,71.2,72.4,74.0,26.61,27.09,27.56,28.03,28.5,29.13
+FR,Front rise incl. waistband,"Top of the waistband at CF, along the crotch seam curve to the crotch point (zip closed)",0.7,0.7,1.0,32.6,33.3,34.0,34.7,35.4,36.4,12.83,13.11,13.39,13.66,13.94,14.33
+BR,Back rise incl. waistband,"Top of the waistband at CB, along the seat seam curve to the crotch point",0.7,1.0,1.3,42.0,43.0,44.0,45.0,46.0,47.3,16.54,16.93,17.32,17.72,18.11,18.62
+IN,Inseam,Crotch point straight down the inside leg seam to the hem edge,1.0,1.0,1.0,82.0,83.0,84.0,85.0,86.0,87.0,32.28,32.68,33.07,33.46,33.86,34.25
+OS,Outseam incl. waistband,"Top of the waistband at the side seam, along the side seam to the hem edge",1.5,1.6,2.0,112.8,114.4,116.0,117.6,119.2,121.2,44.41,45.04,45.67,46.3,46.93,47.72
+P1,Pleat 1 position from CF,"Along the waistband seam, CF to the fold of pleat 1 (on the crease line)",0.3,0.4,0.5,8.7,9.1,9.5,9.9,10.3,10.8,3.43,3.58,3.74,3.9,4.06,4.25
+P2,Pleat spacing,"Along the waistband seam, fold of pleat 1 to fold of pleat 2",0.3,0.1,0.2,3.8,3.9,4.0,4.1,4.2,4.4,1.5,1.54,1.57,1.61,1.65,1.73
+PD1,Pleat 1 intake,Total cloth taken in by pleat 1 at the waistband seam (fold depth x 2),0.3,0.0,0.0,6.0,6.0,6.0,6.0,6.0,6.0,2.36,2.36,2.36,2.36,2.36,2.36
+PD2,Pleat 2 intake,Total cloth taken in by pleat 2 at the waistband seam (fold depth x 2),0.3,0.0,0.0,4.5,4.5,4.5,4.5,4.5,4.5,1.77,1.77,1.77,1.77,1.77,1.77
+SPX,"Slant pocket, top from side seam","Along the waistband seam, side seam to the top corner of the pocket edge",0.3,0.2,0.3,6.6,6.8,7.0,7.2,7.4,7.7,2.6,2.68,2.76,2.83,2.91,3.03
+SPD,Slant pocket depth at side seam,Waistband seam straight down the side seam to the lower bartack of the pocket opening,0.5,0.3,0.5,17.4,17.7,18.0,18.3,18.6,19.1,6.85,6.97,7.09,7.2,7.32,7.52
+BPY,Back pocket below the waistband seam,Waistband seam straight down to the top edge of the upper jet,0.3,0.2,0.3,6.6,6.8,7.0,7.2,7.4,7.7,2.6,2.68,2.76,2.83,2.91,3.03
+BPW,Back pocket opening width,Jet end to jet end (bartack to bartack),0.3,0.3,0.5,13.4,13.7,14.0,14.3,14.6,15.1,5.28,5.39,5.51,5.63,5.75,5.94
+BPX,Back pocket centre from CB seam,"Along the waistband seam, CB seam to the centre of the pocket opening",0.3,0.5,0.6,10.5,11.0,11.5,12.0,12.5,13.1,4.13,4.33,4.53,4.72,4.92,5.16
+FL,Fly opening length,Waistband seam to the J-stitch bartack at CF,0.5,0.5,0.5,18.0,18.5,19.0,19.5,20.0,20.5,7.09,7.28,7.48,7.68,7.87,8.07
+LLF,Front half-lining length,"Waistband seam straight down the front, parallel to the crease, to the lining hem edge (ends at the knee)",1.0,1.0,1.0,58.0,59.0,60.0,61.0,62.0,63.0,22.83,23.23,23.62,24.02,24.41,24.8
+BL,"Belt loop length, finished",Waistband seam to the top fold of the loop,0.2,0.0,0.0,5.5,5.5,5.5,5.5,5.5,5.5,2.17,2.17,2.17,2.17,2.17,2.17
